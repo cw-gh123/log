@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cw-gh123.github.io/log/sitemap.xml
