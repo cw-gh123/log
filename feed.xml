@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>willys log</title>
-    <link href="https://cw-gh123.github.io/log/feed.xml" rel="self" />
-    <link href="https://cw-gh123.github.io/log" />
+    <link href="https://log.cw.nojs.de/feed.xml" rel="self" />
+    <link href="https://log.cw.nojs.de" />
     <updated>2026-08-26T02:40:17+02:00</updated>
     <author>
         <name>Willy</name>
     </author>
-    <id>https://cw-gh123.github.io/log</id>
+    <id>https://log.cw.nojs.de</id>
 
     <entry>
         <title>Challenge: 100 Tage Portugiesisch schreiben (Teil 1)</title>
         <author>
             <name>Willy</name>
         </author>
-        <link href="https://cw-gh123.github.io/log/challenge-100-tage-portugiesisch-schreiben-teil-1.html"/>
-        <id>https://cw-gh123.github.io/log/challenge-100-tage-portugiesisch-schreiben-teil-1.html</id>
+        <link href="https://log.cw.nojs.de/challenge-100-tage-portugiesisch-schreiben-teil-1.html"/>
+        <id>https://log.cw.nojs.de/challenge-100-tage-portugiesisch-schreiben-teil-1.html</id>
             <category term="de"/>
             <category term="Portugiesischlernen"/>
 
@@ -28,13 +28,13 @@
         <content type="html">
             <![CDATA[
                 <p>Das erste Drittel meiner Challenge ist vorbei, einhundert Tage lang mindestens ein paar Sätze auf Portugiesisch zu schreiben.<br><br>Es konnten irgendwelche Sätze sein. Meist schrieb ich auf, was ich an dem Tag gemacht oder erlebt hatte oder machen wollte. Ich schrieb auf, was mir gerade durch den Kopf ging. Die Sätze mussten nicht 100% korrekt sein. Selten, nicht mehr als fünf Mal, habe ich eine KI oder meine Frau um die Korrektur eines Textes gebeten (das könnte ich noch intensivieren). An vielen Tagen habe ich kaum das Wörterbuch benutzt, an einigen Tagen dafür intensiver. – Hauptsache, die fertigen Sätze waren meine eigenen (und nicht von der Maschine übersetzt)!<br><br>Ich tracke die Anzahl der Wörter. Das ist das Ergebnis vom 21. Juli bis zum 21. August:<br><br></p>
-<figure class="post__image post__image--wide"><img src="https://cw-gh123.github.io/log/media/posts/6//100dias-2026-07-21-2026-08-21-2.png" alt="Der Graph zeigt die geschriebenen Wörter pro Tag in meiner Challenge. " width="1919" height="1010">
+<figure class="post__image post__image--wide"><img src="https://log.cw.nojs.de/media/posts/6//100dias-2026-07-21-2026-08-21-2.png" alt="Der Graph zeigt die geschriebenen Wörter pro Tag in meiner Challenge. " width="1919" height="1010">
 <figcaption>Der Graph zeigt die Anzahl der Wörter, die ich pro Tag schrieb.</figcaption>
 </figure>
 <p>Wie man sieht, fing ich mit ca. fünfzig Wörtern ziemlich <em>low level</em> an, was ich gut finde, weil ich mich nicht zu sehr unter Druck setzte. Trotzdem bemerkte ich schon nach den ersten Tagen, dass ich abends in der portugiesischen Familie mehr auf Portugiesisch sprach. Ich begann öfter zu sprechen, <em>weil ich es konnte</em> oder <em>um die Sprache zu benutzen</em> – nicht nur dann, wenn ich etwas Bestimmtes erreichen wollte.</p>
-<p>Belohnt wurde ich auch relativ schnell mit der Einsicht, dass ich mehr schreiben konnte, als mir klar gewesen war. Für diese Einsicht brauchte ich zuletzt eine Lehrerin, die mich zum Schreiben eines Textes zwang. Da ich im Moment keine mehr habe, muss ich mich selbst über die Schwelle schubsen.<br><br>Mit der Zeit fuchste ich mich jedenfalls für meine Verhältnisse ganz schön in die Challenge rein. Aus den anfänglichen 50 Wörtern sind durchschnittlich knapp 200 Wörter pro Tag geworden. Zuletzt platzte ich fasst vor Stolz, als ich feststellte: <em>Mache ich gerade das Brainstorming für einen wissenschaftlichen Vortrag auf Portugiesisch und es funktioniert einfach?</em> Das ist der letzte Datenpunkt (21. August): das dritte Mal um die 350 Wörter, und das ohne vorherigen portugiesischsprachigen Input.<br><br>Dass ich überhaupt bei durchschnittlich 200 Wörten landen konnte, liegt vor allem daran, dass ich in den einzelnen Sessions über persönliche Erlebnisse oder Themen aus den Medien schrieb. Dinge, die mich wirklich interessierten. Wenn ich eh schon etwas schreiben musste, dann sollte es wenigstens etwas Interessantes sein. Es war dann ganz natürlich, dass ich immer öfter auch portugiesischsprachige Quellen heranzog.<br><br>In den ersten Tagen recherchierte ich noch Sachen auf Deutsch. Später fasste ich einen portugiesischen Artikel zusammen und kommentierte ihn. Zuletzt machte ich mir Notizen auf Basis gleich mehrerer portugiesischer Internetseiten zu einem Thema. Ein Ergebnis davon ist dieser <a href="https://cw-gh123.github.io/log/warum-brennt-es-bei-euch-eigentlich-so-oft.html">Blogpost</a> über Waldbrände in Portugal.</p>
+<p>Belohnt wurde ich auch relativ schnell mit der Einsicht, dass ich mehr schreiben konnte, als mir klar gewesen war. Für diese Einsicht brauchte ich zuletzt eine Lehrerin, die mich zum Schreiben eines Textes zwang. Da ich im Moment keine mehr habe, muss ich mich selbst über die Schwelle schubsen.<br><br>Mit der Zeit fuchste ich mich jedenfalls für meine Verhältnisse ganz schön in die Challenge rein. Aus den anfänglichen 50 Wörtern sind durchschnittlich knapp 200 Wörter pro Tag geworden. Zuletzt platzte ich fasst vor Stolz, als ich feststellte: <em>Mache ich gerade das Brainstorming für einen wissenschaftlichen Vortrag auf Portugiesisch und es funktioniert einfach?</em> Das ist der letzte Datenpunkt (21. August): das dritte Mal um die 350 Wörter, und das ohne vorherigen portugiesischsprachigen Input.<br><br>Dass ich überhaupt bei durchschnittlich 200 Wörten landen konnte, liegt vor allem daran, dass ich in den einzelnen Sessions über persönliche Erlebnisse oder Themen aus den Medien schrieb. Dinge, die mich wirklich interessierten. Wenn ich eh schon etwas schreiben musste, dann sollte es wenigstens etwas Interessantes sein. Es war dann ganz natürlich, dass ich immer öfter auch portugiesischsprachige Quellen heranzog.<br><br>In den ersten Tagen recherchierte ich noch Sachen auf Deutsch. Später fasste ich einen portugiesischen Artikel zusammen und kommentierte ihn. Zuletzt machte ich mir Notizen auf Basis gleich mehrerer portugiesischer Internetseiten zu einem Thema. Ein Ergebnis davon ist dieser <a href="https://log.cw.nojs.de/warum-brennt-es-bei-euch-eigentlich-so-oft.html">Blogpost</a> über Waldbrände in Portugal.</p>
 <p>Auf diese Weise erhöhte sich neben dem <em>Output</em> – Personal Best: 364 Wörter am 8. August – auch mein <em>Input</em> (und die Nutzung des Wörterbuchs) immens. Das fühlte sich total richtig an und ungewohnt professionell. Die letzten gut 30 Tage haben mich insofern auch gelehrt, das Sprachenlernen selbst noch besser zu verstehen – und wie wichtig es ist, seine verschiedenen Säulen miteinander zu kombinieren.</p>
-<figure class="post__image post__image--center"><img src="https://cw-gh123.github.io/log/media/posts/6/sprachenlernen_dark.png" alt="" width="3606" height="2316">
+<figure class="post__image post__image--center"><img src="https://log.cw.nojs.de/media/posts/6/sprachenlernen_dark.png" alt="" width="3606" height="2316">
 <figcaption>Das Schaubild zeigt das Sprachenlernen in meiner bisherigen Challenge. Das Training vernetzte die vier Hauptfertigkeiten Hören/Lesen (Input) und Sprechen/Schreiben (Output). Ferner sind regel-basiertes Lernen (bottom down) und ein bisschen auch Fehlerkorrektur (bottum up) eingeflossen.</figcaption>
 </figure>
 <p>Wie eingangs erwähnt, bin ich hoch motiviert, mein Portugiesisch zu verbessern. Nach zwei Jahren des Arbeitens und Lebens in Portugal hat sich außerdem mein Nervensystem offenbar ausreichend beruhigt, um in den Ferien ein solches Lernprojekt stemmen zu können – und dabei Spaß zu haben. Insofern ist diese Challenge ein Grund für meinen Lernfortschritt, aber auch Ausdruck meiner gestiegenen Lernbereitschaft. Zum Beispiel las ich in diesen Ferien auch <span style="font-size: inherit;">mein erstes komplettes Buch auf Portugiesisch (ein Jugendbuch mit 150 Seiten), mit steigender Toleranz für die Menge von Seiten pro Tag. </span></p>
@@ -47,8 +47,8 @@
         <author>
             <name>Willy</name>
         </author>
-        <link href="https://cw-gh123.github.io/log/warum-brennt-es-bei-euch-eigentlich-so-oft.html"/>
-        <id>https://cw-gh123.github.io/log/warum-brennt-es-bei-euch-eigentlich-so-oft.html</id>
+        <link href="https://log.cw.nojs.de/warum-brennt-es-bei-euch-eigentlich-so-oft.html"/>
+        <id>https://log.cw.nojs.de/warum-brennt-es-bei-euch-eigentlich-so-oft.html</id>
             <category term="de"/>
             <category term="Portugal"/>
 
@@ -92,8 +92,8 @@
         <author>
             <name>Willy</name>
         </author>
-        <link href="https://cw-gh123.github.io/log/fatma-aydemir-dschinns.html"/>
-        <id>https://cw-gh123.github.io/log/fatma-aydemir-dschinns.html</id>
+        <link href="https://log.cw.nojs.de/fatma-aydemir-dschinns.html"/>
+        <id>https://log.cw.nojs.de/fatma-aydemir-dschinns.html</id>
             <category term="de"/>
             <category term="Literatur"/>
 
@@ -136,8 +136,8 @@
         <author>
             <name>Willy</name>
         </author>
-        <link href="https://cw-gh123.github.io/log/2026-08-02.html"/>
-        <id>https://cw-gh123.github.io/log/2026-08-02.html</id>
+        <link href="https://log.cw.nojs.de/2026-08-02.html"/>
+        <id>https://log.cw.nojs.de/2026-08-02.html</id>
             <category term="de"/>
             <category term="Portugiesischlernen"/>
 
@@ -151,7 +151,7 @@
             <![CDATA[
                 <p>Wenn ich hier in Portugal über kurz oder lang kein passables Portugiesisch lernen würde, wäre das ein Wunder. Ich bin ja täglich mit Portugiesisch konfrontiert und mache daher Fortschritte. Die Sprachkurse meiner Uni haben dabei sehr geholfen.</p><!-- more -->
 
-<p>Mein Portugiesisch ist trotzdem noch in den Kinderschuhen, ganz einfach, weil unsere Beziehungssprache Deutsch ist. Da ist das normal. Dennoch nutze ich Portugiesisch täglich, im Café, auf den Fluren der Universität, im Sekretariat des Departments, beim Fernsehen oder am Esstisch der portugiesischen Familie. Grammatik zu lernen ist dabei aber auch wichtig für mich, weil es das Wiedererkennen gewisser Strukturen fördert. Manche, die unser Kind jetzt einfach so zu verwenden beginnt (zum Beispiel <em>indirekte Rede</em>), erkenne ich nur, weil ich sie im letzten Winter in meinem dritten Sprachkurs kennengelernt habe. Wenn sie mir so in <em>meinem Leben</em> begegnen, vergesse ich sie nicht mehr.</p><p>Apropos Sprachkurse. Seit unserer Ankunft vor dem Wintersemester 2024 habe ich in drei Semestern jeweils einen Sprachkurs belegt. Zwei Mal neunzig Minuten pro Woche jeweils nach der Arbeit. Offiziell waren das die Niveaus A2, B1 und B2. In dieser Druckbetankung wurde ich natürlich über gewisse Schwellen gepusht. Als ich mit A1 hier ankam (d.h. ich konnte mich vorstellen und einen Kaffee bestellen), konnte ich nicht frei über ein Thema vortragen. Im ersten Semester habe ich meinen Vortrag über die Band <em><a href="https://www.youtube.com/watch?v=pQhYQLI-2Tg">Xutos</a></em> auswendig gelernt. Im nächsten Semester dasselbe (über den Schriftsteller Lobo Antunes): alles auswendig gelernt. Aber schon mit deutlich weniger Stress beim Sprechen. Im dritten Semester (über Halsbandsittiche in Deutschland) konnte ich dann erstmals ohne Auswendiglernen frei vortragen, freilich auf Basis intensiv vorbereiteter Vokabeln.</p><p>Alle drei Kurse habe ich übrigens fast <em>ohne zu pauken</em> bestanden, mit ca. 16,5 von 20 (entspricht Note 2 nach deutschem System). Man möchte halt auch mal Feierabend machen. Aber nach dem ersten Kurs wusste ich, dass ich für das Lernen der wichtigsten Verben und ihrer jeweiligen Konjugation in Präsens, Perfekt und Imperfekt (siehe Bild) die Unterstützung einer Karteikarten-App (Anki) gebrauchen könnte. Die Angst im nächsten Semester hinterherzuhängen, wo das vorausgesetzt werden würde. Auch das war ein Ansporn, ein Privileg.</p><figure class="post__image"><img src="https://cw-gh123.github.io/log/media/posts/1/verben.jpg" alt="Konjugationstabellen für die wichtigsten portugiesischen Verben" width="3601" height="2048"></figure><details>
+<p>Mein Portugiesisch ist trotzdem noch in den Kinderschuhen, ganz einfach, weil unsere Beziehungssprache Deutsch ist. Da ist das normal. Dennoch nutze ich Portugiesisch täglich, im Café, auf den Fluren der Universität, im Sekretariat des Departments, beim Fernsehen oder am Esstisch der portugiesischen Familie. Grammatik zu lernen ist dabei aber auch wichtig für mich, weil es das Wiedererkennen gewisser Strukturen fördert. Manche, die unser Kind jetzt einfach so zu verwenden beginnt (zum Beispiel <em>indirekte Rede</em>), erkenne ich nur, weil ich sie im letzten Winter in meinem dritten Sprachkurs kennengelernt habe. Wenn sie mir so in <em>meinem Leben</em> begegnen, vergesse ich sie nicht mehr.</p><p>Apropos Sprachkurse. Seit unserer Ankunft vor dem Wintersemester 2024 habe ich in drei Semestern jeweils einen Sprachkurs belegt. Zwei Mal neunzig Minuten pro Woche jeweils nach der Arbeit. Offiziell waren das die Niveaus A2, B1 und B2. In dieser Druckbetankung wurde ich natürlich über gewisse Schwellen gepusht. Als ich mit A1 hier ankam (d.h. ich konnte mich vorstellen und einen Kaffee bestellen), konnte ich nicht frei über ein Thema vortragen. Im ersten Semester habe ich meinen Vortrag über die Band <em><a href="https://www.youtube.com/watch?v=pQhYQLI-2Tg">Xutos</a></em> auswendig gelernt. Im nächsten Semester dasselbe (über den Schriftsteller Lobo Antunes): alles auswendig gelernt. Aber schon mit deutlich weniger Stress beim Sprechen. Im dritten Semester (über Halsbandsittiche in Deutschland) konnte ich dann erstmals ohne Auswendiglernen frei vortragen, freilich auf Basis intensiv vorbereiteter Vokabeln.</p><p>Alle drei Kurse habe ich übrigens fast <em>ohne zu pauken</em> bestanden, mit ca. 16,5 von 20 (entspricht Note 2 nach deutschem System). Man möchte halt auch mal Feierabend machen. Aber nach dem ersten Kurs wusste ich, dass ich für das Lernen der wichtigsten Verben und ihrer jeweiligen Konjugation in Präsens, Perfekt und Imperfekt (siehe Bild) die Unterstützung einer Karteikarten-App (Anki) gebrauchen könnte. Die Angst im nächsten Semester hinterherzuhängen, wo das vorausgesetzt werden würde. Auch das war ein Ansporn, ein Privileg.</p><figure class="post__image"><img src="https://log.cw.nojs.de/media/posts/1/verben.jpg" alt="Konjugationstabellen für die wichtigsten portugiesischen Verben" width="3601" height="2048"></figure><details>
 <summary>Mehr über die Lernaktion mit Anki</summary>
 
 <p>Es handelt sich “nur” um drei Hilfsverben, drei reguläre Konjugationstypen und sechzehn irreguläre Verben mit jeweils fünf Formen in Singular und Plural in den drei Zeiten Präsens, Perfekt und Imperfekt. Von den meisten davon braucht man tatsächlich oft irgendeine Form, zum Beispiel, um zu sagen, was man selbst zum Mittag gegessen oder vorgestern gemacht, gesagt, gesehen oder gelesen hat. Viele Formen braucht man aber eben nicht andauernd (für sowas wie <em>ihr wusstet gestern</em>). Ich hatte bis dahin gar keine Routine, um die entsprechenden 330 verschiedenen Formen in möglichst kurzer Zeit zu lernen. 

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://cw-gh123.github.io/log/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://log.cw.nojs.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://cw-gh123.github.io/log/</loc>
+<loc>https://log.cw.nojs.de/</loc>
 </url>
 <url>
-<loc>https://cw-gh123.github.io/log/2026-08-02.html</loc>
+<loc>https://log.cw.nojs.de/2026-08-02.html</loc>
 <lastmod>2026-08-21T02:43:38+02:00</lastmod>
 <image:image>
-<image:loc>https://cw-gh123.github.io/log/media/posts/1/verben.jpg</image:loc>
+<image:loc>https://log.cw.nojs.de/media/posts/1/verben.jpg</image:loc>
 <image:title><![CDATA[Konjugationstabellen für die wichtigsten portugiesischen Verben]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cw-gh123.github.io/log/challenge-100-tage-portugiesisch-schreiben-teil-1.html</loc>
+<loc>https://log.cw.nojs.de/challenge-100-tage-portugiesisch-schreiben-teil-1.html</loc>
 <lastmod>2026-08-26T02:28:34+02:00</lastmod>
 <image:image>
-<image:loc>https://cw-gh123.github.io/log/media/posts/6//100dias-2026-07-21-2026-08-21-2.png</image:loc>
+<image:loc>https://log.cw.nojs.de/media/posts/6//100dias-2026-07-21-2026-08-21-2.png</image:loc>
 <image:title><![CDATA[Der Graph zeigt die geschriebenen Wörter pro Tag in meiner Challenge. ]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://cw-gh123.github.io/log/media/posts/6/sprachenlernen_dark.png</image:loc>
+<image:loc>https://log.cw.nojs.de/media/posts/6/sprachenlernen_dark.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cw-gh123.github.io/log/fatma-aydemir-dschinns.html</loc>
+<loc>https://log.cw.nojs.de/fatma-aydemir-dschinns.html</loc>
 <lastmod>2026-08-26T02:40:17+02:00</lastmod>
 </url>
 <url>
-<loc>https://cw-gh123.github.io/log/kontakt.html</loc>
+<loc>https://log.cw.nojs.de/kontakt.html</loc>
 <lastmod>2026-08-21T02:33:29+02:00</lastmod>
 </url>
 <url>
-<loc>https://cw-gh123.github.io/log/ueber.html</loc>
+<loc>https://log.cw.nojs.de/ueber.html</loc>
 <lastmod>2026-08-21T02:52:58+02:00</lastmod>
 </url>
 <url>
-<loc>https://cw-gh123.github.io/log/warum-brennt-es-bei-euch-eigentlich-so-oft.html</loc>
+<loc>https://log.cw.nojs.de/warum-brennt-es-bei-euch-eigentlich-so-oft.html</loc>
 <lastmod>2026-08-26T02:18:40+02:00</lastmod>
 </url>
 </urlset>
