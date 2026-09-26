@@ -3,7 +3,7 @@
     <title>willys log</title>
     <link href="https://log.cw.nojs.de/feed.xml" rel="self" />
     <link href="https://log.cw.nojs.de" />
-    <updated>2026-09-27T00:52:49+02:00</updated>
+    <updated>2026-09-27T00:55:56+02:00</updated>
     <author>
         <name>Willy</name>
     </author>
@@ -31,7 +31,7 @@
                 <figure class="post__image"><img  src="https://log.cw.nojs.de/media/posts/8/Nao-e-a-tua-mao.svg" alt="" width="600" height="713"></figure>
 <p>Vorgelesen von <span class="e-10811-text encore-text-body-small encore-internal-color-text-subdued sc-dqCRwF cRjkAs" data-encore-id="text">Raquel Marinho</span> im Podcast <span class="e-10811-text encore-text-body-small encore-internal-color-text-subdued sc-fantwC fQQBqp" data-encore-id="text"><em>A Invenção do Amor </em>(<em>As novas famílias</em>, <span class="sc-bLmarx fWuQiC">09. Apr. 2025)</span></span></p>
 <p><audio style="width: 100%;" controls="controls" preload="none">
-  <source src="/media/files/António-Reis-Não-é-a-tua-mão.mp3" type="audio/mpeg" />
+  <source src="file:///home/christian/Dokumente/Publii/sites/willys-log/input/media/files/António-Reis-Não-é-a-tua-mão.mp3" type="audio/mpeg" />
   Dein Browser unterstützt die Audio-Wiedergabe nicht.</audio></p>
             ]]>
         </content>
